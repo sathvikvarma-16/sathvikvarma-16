@@ -5,11 +5,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science StudentN @ ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES
-💻 Completed strong foundation in Python & Object-Oriented Programming  
-🛠️ Currently building real-world Python projects  
-📈 Actively improving problem-solving skills  
-🎯 Long-term goal: Backend & AI/ML Specialization  
+- 🎓 B.Tech Computer Science Student @ ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES
+- 💻 Completed strong foundation in Python & Object-Oriented Programming  
+- 🛠️ Currently building real-world Python projects  
+- 📈 Actively improving problem-solving skills  
+- 🎯 Long-term goal: Backend & AI/ML Specialization  
 
 ---
 
