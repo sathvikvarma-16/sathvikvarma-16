@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathik Varma</h1>
-<h3 align="center">Python Developer | CSE Student | Aspiring AI/ML Engineer</h3>
+<h3 align="center">CSE Student | Python Developer | Aspiring AI/ML Engineer</h3>
 
 ---
 
