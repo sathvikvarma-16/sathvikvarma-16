@@ -6,8 +6,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student @ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES
-- 💻 Completed strong foundation in Python & Object-Oriented Programming  
-- 🛠️ Currently building real-world Python projects & started learning DSA 
+- 💻 Completed strong foundation in Python, Object-Oriented Programming & DSA
+- 🛠️ Currently building real-world Python projects, learning DSA & focussed to learn AI&ML
 - 📈 Actively improving problem-solving skills  
 - 🎯 Long-term goal: Backend & AI/ML Specialization  
 
@@ -18,7 +18,8 @@
 ### 👨‍💻 Programming
 - Python (Core + OOP + DSA)
 - C/C++
-
+- java
+  
 ### 📚 Core Concepts
 - Object-Oriented Programming
 - File Handling
@@ -27,7 +28,8 @@
 
 ### 🧠 Currently Learning
 - Data Structures & Algorithms
-- SQL & DBMS (Upcoming)
+- SQL & DBMS
+- python data
 - Backend Development (Planned Next Phase)
 
 ### 🧰 Tools
