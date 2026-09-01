@@ -73,7 +73,9 @@ Core Values: [Consistency, Ownership, Curiosity, Discipline, Long-term thinking]
 
 **Data & AI/ML**
 
-![NumPy](https://skillicons.dev/icons?i=numpy) ![Pandas](https://skillicons.dev/icons?i=pandas) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
