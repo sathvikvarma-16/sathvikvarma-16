@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:3730A3,70:6D28D9,100:9333EA&height=220&section=header&text=Sathvik%20Varma&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Software%20Engineer%20%7C%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:3730A3,70:6D28D9,100:9333EA&height=160&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=46&pause=1000&color=C4B5FD&center=true&vCenter=true&width=560&height=70&lines=Sathvik+Varma;Sathvik+Varma+%E2%9C%A6&repeat=false" alt="Sathvik Varma" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Aspiring+AI+%2F+ML+Engineer;Software+Engineer+%7C+Data+Enthusiast" alt="Typing SVG" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+towards+AI+%2F+ML+Engineering;Strong+Foundations+in+DSA+%26+CS+Fundamentals;Full-Stack+Development+Exposure;Turning+Concepts+Into+Real+Systems" alt="Typing SVG" />
@@ -217,10 +221,10 @@ A structured, continuously growing repository documenting rigorous practice acro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sathvikvarma-16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E1B4B&title_color=818CF8&icon_color=6D28D9&text_color=E0E7FF&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikvarma-16&theme=tokyonight&hide_border=true&background=1E1B4B&ring=6D28D9&fire=818CF8&currStreakLabel=818CF8" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sathvikvarma-16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E1B4B&title_color=818CF8&icon_color=6D28D9&text_color=E0E7FF&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=sathvikvarma-16&theme=tokyonight&hide_border=true&background=1E1B4B&ring=6D28D9&fire=818CF8&currStreakLabel=818CF8" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvikvarma-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=1E1B4B&title_color=818CF8&text_color=E0E7FF" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sathvikvarma-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=1E1B4B&title_color=818CF8&text_color=E0E7FF" width="49%"/>
 
 </div>
 
@@ -241,7 +245,7 @@ A structured, continuously growing repository documenting rigorous practice acro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathvikvarma-16&theme=tokyo-night&hide_border=true&bg_color=1E1B4B&color=818CF8&line=6D28D9&point=E0E7FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathvikvarma-16&theme=react-dark&hide_border=true&bg_color=1E1B4B&color=818CF8&line=818CF8&point=E0E7FF&area=true&area_color=6D28D9" width="100%"/>
 
 </div>
 
