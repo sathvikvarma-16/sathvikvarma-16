@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:3730A3,70:6D28D9,100:9333EA&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,30:312E81,60:6D28D9,100:A855F7&height=280&section=header&text=Sathvik%20Varma&fontSize=68&fontColor=F5F3FF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=22&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=46&pause=1000&color=C4B5FD&center=true&vCenter=true&width=560&height=70&lines=Sathvik+Varma;Sathvik+Varma+%E2%9C%A6&repeat=false" alt="Sathvik Varma" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Aspiring+AI+%2F+ML+Engineer;Software+Engineer+%7C+Data+Enthusiast" alt="Typing SVG" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+towards+AI+%2F+ML+Engineering;Strong+Foundations+in+DSA+%26+CS+Fundamentals;Full-Stack+Development+Exposure;Turning+Concepts+Into+Real+Systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems%2C+Not+Just+Models;Strong+Foundations+in+DSA+%26+Core+CS;Learning+ML+by+Building%2C+Not+Just+Reading;Programming+%E2%86%92+DSA+%E2%86%92+ML+%E2%86%92+AI+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -35,11 +29,11 @@
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> About Me
 
-I'm a **2nd-year Computer Science & Engineering student** at Anil Neerukonda Institute of Technology & Sciences (ANITS), building a career path toward **Artificial Intelligence and Machine Learning Engineering** — grounded in strong software engineering and computer science fundamentals.
+I'm a **2nd-year Computer Science & Engineering student** at Anil Neerukonda Institute of Technology & Sciences (ANITS), focused entirely on becoming an **AI/ML Engineer**, built on a rigorous foundation of core Computer Science and programming fundamentals.
 
-My approach is deliberate: **Programming → Data Structures & Algorithms → SQL/DBMS → NumPy/Pandas → Statistics → Machine Learning → Deep Learning → AI/ML Systems.** I believe in building real systems, breaking them, understanding why they work, and iterating — not just consuming theory.
+My learning path is deliberate and sequential: **Programming → Data Structures & Algorithms → SQL/DBMS → NumPy/Pandas → Statistics → Machine Learning → Deep Learning → AI/ML Engineering.** I learn by building, breaking things, understanding why they work, and iterating — not by consuming theory passively.
 
-Alongside my AI/ML trajectory, I've built practical full-stack engineering exposure — React, TypeScript, Node.js, PostgreSQL, Redis, and Docker — because I want to eventually **design, build, and deploy** intelligent systems end-to-end, not just train models in isolation.
+I've also picked up full-stack development (React, TypeScript, Node.js, PostgreSQL, Redis, Docker) — primarily through **hackathon-driven, hands-on builds** rather than as a separate career track. It's a supporting skill that lets me eventually ship the intelligent systems I build end-to-end, not the destination itself.
 
 ```yaml
 Engineering Philosophy: "Build first. Understand deeply. Improve continuously."
@@ -48,7 +42,6 @@ Core Values: [Consistency, Ownership, Curiosity, Discipline, Long-term thinking]
 
 ### 🎯 Open To
 - 🤖 AI/ML & Data Science Internships
-- 💻 Software Development Internships
 - 🔬 Research-oriented opportunities
 - 🚀 Hackathons & technical collaborations
 - 🌱 Real-world projects where I can learn and contribute meaningfully
