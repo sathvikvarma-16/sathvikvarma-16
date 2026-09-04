@@ -180,7 +180,7 @@ A structured, continuously growing repository documenting rigorous practice acro
 | Recognition | Details |
 |:--|:--|
 | 🥇 HackYatra Hackathon — NSRIT | Collaborated in a team to build a technical solution for a real-world problem statement |
-| 🎓 Academic Excellence | CGPA 8.77/10 · Intermediate (MPC) 99% · SSC 97.33% |
+| 🎓 Academic Excellence | CGPA 9.06/10 · Intermediate (MPC) 99% · SSC 97.33% |
 | 👥 Class Representative — ANITS | Communication bridge between students and faculty; coordination & leadership |
 
 </div>
