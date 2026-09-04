@@ -6,7 +6,7 @@
 
 <br/>
 
-![Education](https://img.shields.io/badge/CGPA-8.77%2F10-4C1D95?style=for-the-badge&labelColor=1E1B4B)
+![Education](https://img.shields.io/badge/CGPA-9.06%2F10-4C1D95?style=for-the-badge&labelColor=1E1B4B)
 ![Graduation](https://img.shields.io/badge/Graduating-2029-6D28D9?style=for-the-badge&labelColor=1E1B4B)
 ![Location](https://img.shields.io/badge/Visakhapatnam-India-4338CA?style=for-the-badge&labelColor=1E1B4B&logo=googlemaps&logoColor=white)
 
